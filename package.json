@@ -1,9 +1,9 @@
 {
-  "name": "cloudflare-worker-kv-download",
+  "name": "cloudflare-workers-kv-download",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
-  "repository": "git@github.com:Hexi1997/cloudflare-worker-kv-download.git",
+  "repository": "git@github.com:Hexi1997/cloudflare-workers-kv-download.git",
   "author": "hexi1997 <18715156450@163.com>",
   "license": "MIT",
   "devDependencies": {
